@@ -11,6 +11,7 @@ justify-content: center;
 position: relative;
 height: 100vh;
 text-align: center;
+font-family: "Outfit", sans-serif;
 }
 
 .image{
@@ -22,8 +23,9 @@ text-align: center;
 .container {
     background-color: white;
     padding: 10px;
-    width: 320px;
-    height: 497px;
+    width: 20rem;
+    text-align: center;
+    padding: 1rem;
     border-radius: 20px;
 ;
    
@@ -37,7 +39,7 @@ text-align: center;
     
 }
 
-.article {
+.art {
     font-size: 22px;
     font-weight: bold;
     margin-bottom: 10px;
